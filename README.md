@@ -13,7 +13,7 @@ Una calculadora simple desarrollada en Java usando la interfaz gráfica de usuar
 
 ### Pantalla principal de la calculadora:
 
-![Pantalla principal](captura/1p.png)
+![Pantalla principal](captura/1.png)
 
 ### Cálculo de una operación (Ejemplo: 5 + 2):
 
